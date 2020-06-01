@@ -1,0 +1,10 @@
+
+---
+applications:
+- name: MaskDetection
+  memory: 1024MB
+  disk_quota: 1.7GB
+  random-route: true
+  parameters:
+    memory: 1024M
+    buildpack: 'python_buildpack'
