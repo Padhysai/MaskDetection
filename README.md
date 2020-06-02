@@ -27,10 +27,12 @@ I have collected 1500 images which consists of persons with mask and without mas
 
 #### DataSet Size
 
-Total Number of Images : 1523
-Total Number of Training images : 1223
-Total Number of Test Images : 300
-No of Categories:
+ 
+
+ - Total Number of Images : 1523
+ - Total Number of Training images : 1223
+ - Total Number of Test Images : 300
+ - No of Categories:
 
  1. Persons with Mask
  2. Persons without Mask
@@ -39,8 +41,8 @@ To make my model robust and to detect in situation i used [Augmentor](https://gi
 
 After the training completed, i deployed my model to Pivotal cloud services.
 
-Here are the steps to deploy the model:
+ 1. Visit this project through [https://maskdetection-brave-serval-ut.cfapps.io/](https://maskdetection-brave-serval-ut.cfapps.io/)
 
- 1. Visit the official website [https://console.run.pivotal.io/](https://console.run.pivotal.io/)
- 2. 
-
+Here are the some snapshots of the Predictions:
+![Person With Mask](assets/with_mask.png)
+![Person WithOut Mask](assets/without_mask)
