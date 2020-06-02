@@ -44,5 +44,5 @@ After the training completed, i deployed my model to Pivotal cloud services.
  1. Visit this project through [https://maskdetection-brave-serval-ut.cfapps.io/](https://maskdetection-brave-serval-ut.cfapps.io/)
 
 Here are the some snapshots of the Predictions:
-![Person With Mask](assets/with_mask.png)
-![Person WithOut Mask](assets/without_mask)
+![Person With Mask](assests/with_mask.png)
+![Person WithOut Mask](assests/without_mask)
