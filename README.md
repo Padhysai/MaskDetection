@@ -1,5 +1,5 @@
 # Mask Detection using TFOD
-![](https://padhysai.github.io/MaskDetection/)
+![https://padhysai.github.io/MaskDetection/](https://padhysai.github.io/MaskDetection/)
 
 ![enter image description here](https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2020/04/01023335/MaskDetection_Banner-1-1.png)
 
