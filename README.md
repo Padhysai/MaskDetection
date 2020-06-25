@@ -49,3 +49,7 @@ Person With Mask:
 ![Person With Mask](assests/With_Mask.png)
 Person Without Mask
 ![Person WithOut Mask](assests/Without_mask.png)
+
+### Credits
+- Tensorflow API for Object detection.
+- Object Detection Models by [INEURON.ai](http://ineuron.ai/) 
